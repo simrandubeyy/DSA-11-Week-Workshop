@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/
+
 #include<bits/stdc++.h>
 using namespace std;
 
